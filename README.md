@@ -35,6 +35,7 @@ Property_Area
 Loan_Status (Target variable)
 Dataset Source: Kaggle or similar.
 
+
 ⚙️ Models Used
 Logistic Regression
 Decision Tree Classifier
@@ -57,8 +58,10 @@ cd loan-eligibility-prediction
 Install the dependencies:
 Run the Jupyter Notebook or script to start training and prediction.
 
+
 📝Dashboard
 ![Image](https://github.com/user-attachments/assets/d9769eab-22fb-4e57-a595-e0f436187396)
+
 
 ✅ Conclusion
 The model successfully predicts loan eligibility with good accuracy and can be further improved by hyperparameter tuning or using ensemble methods.
